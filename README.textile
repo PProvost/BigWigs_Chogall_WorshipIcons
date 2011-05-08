@@ -1,0 +1,9 @@
+h2. Overview
+
+This is a very small BigWigs plugin that assigns icons to the people who get Worshipped in the Cho'gall encounter in Bastion of Twilight.
+
+For 10-man it will use the Star and Circle icons. For 25-man it will use Star, Circle, Diamond, Triangle and Moon.
+
+h2. Credits
+
+Based on "BigWigs_SindragosaIcons":http://www.wowace.com/addons/bigwigs_sindragosaicons/ by Rabbit.
