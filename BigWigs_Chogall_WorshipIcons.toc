@@ -1,0 +1,13 @@
+## Interface: 40100
+## Title: Big Wigs |cffff0000+|r|cffffffffCho'gall Worship Icons|r
+## Notes: Sets raid icons on the worshipped players in the Cho'gall encounter
+## Author: Quaiche
+## Version: $project-version$
+
+## Dependencies: BigWigs
+## LoadOnDemand: 1
+
+## X-BigWigs-LoadOn-Zone: The Bastion of Twilight
+## X-Credits: Derived from Rabbit's BigWigs_SindragosaIcons
+
+BigWigs_Chogall_Worship_Icons.lua
