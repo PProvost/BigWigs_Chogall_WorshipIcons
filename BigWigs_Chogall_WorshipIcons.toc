@@ -10,4 +10,4 @@
 ## X-BigWigs-LoadOn-Zone: The Bastion of Twilight
 ## X-Credits: Derived from Rabbit's BigWigs_SindragosaIcons
 
-BigWigs_Chogall_Worship_Icons.lua
+BigWigs_Chogall_WorshipIcons.lua
